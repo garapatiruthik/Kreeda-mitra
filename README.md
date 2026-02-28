@@ -1,4 +1,4 @@
-# EnGarde AI - Real-Time Fencing Coach
+# Kreeda-Mitra AI - Real-Time Fencing Coach
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.8%2B-blue" alt="Python Version">
